@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;
+  height: 120 px;
+  background-color: #a4a4f4;
+}
+body {
+  background-color: #00ff88;
+}
+.titulo h1 {
+  color: #2bff00;
+  font: 50px;
+  font-family: "Comic Sans MS", sans-serif;
+}
+.contenido{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  border: 5px solid white;
+  height: 200 px;
+  background-color: ;
+  margin: 10px;
+}
+.contenido img{}
